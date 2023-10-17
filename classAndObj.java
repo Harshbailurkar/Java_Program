@@ -1,6 +1,6 @@
 class student{
      
-    int rollno;
+    int rollNo;
     String studentName="harsh";
     }
 
@@ -10,7 +10,7 @@ public class classAndObj{
     
 
        student obj1= new student();
-       System.out.println(obj1.rollno=42);
+       System.out.println(obj1.rollNo=42);
         System.out.println(obj1.studentName);
    }
 }
